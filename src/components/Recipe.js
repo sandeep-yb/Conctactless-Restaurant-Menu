@@ -1,7 +1,7 @@
 import React from "react";
 
 const Recipe = (props) => {
-  console.log(props);
+  //console.log(props);
   const label = props.recipe.label;
   const image = props.recipe.image;
   return (
